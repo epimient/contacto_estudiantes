@@ -142,4 +142,4 @@ Aquí tienes un ejemplo del contenido mínimo que debes incluir en tu archivo Ex
 
 **Eduardo Pimienta Leon**  
 Docente | Universidad Americana  
-📧 eduardopimienta@americana.edu.com
+📧 eduardopimienta@americana.edu.co
